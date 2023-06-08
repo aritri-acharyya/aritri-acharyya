@@ -1,3 +1,7 @@
+<head>
+  <script src="https://kit.fontawesome.com/f7187ce1e1.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
 <h1 align="center">Hi 👋, I'm Aritri Acharyya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -40,3 +44,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritri-acharyya&show_icons=true&locale=en&layout=compact" alt="aritri-acharyya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritri-acharyya&show_icons=true&locale=en" alt="aritri-acharyya" /></p>
+  </body>
