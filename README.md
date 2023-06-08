@@ -12,7 +12,7 @@
 - 💬 Ask me about 
   <p>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  </p>
+  
 
 
 <h3 align="left">Connect with me:</h3>
