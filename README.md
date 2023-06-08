@@ -1,7 +1,4 @@
-<head>
-  <script src="https://kit.fontawesome.com/f7187ce1e1.js" crossorigin="anonymous"></script>
-  </head>
-  <body>
+
 <h1 align="center">Hi 👋, I'm Aritri Acharyya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -31,7 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+  <a href="https://twitter.com/danielhendricks/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+</a>
 <a href="https://github.com/aritri-acharyya"><i class="fab fa-github"></i></a>
   
 <a href="https://linkedin.com/in/aritri acharyya"><i class="fab fa-linkedin-in"></i></a>
@@ -44,4 +43,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aritri-acharyya&show_icons=true&locale=en&layout=compact" alt="aritri-acharyya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aritri-acharyya&show_icons=true&locale=en" alt="aritri-acharyya" /></p>
-  </body>
+
