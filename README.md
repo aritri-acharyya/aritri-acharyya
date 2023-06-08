@@ -29,16 +29,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/ar_i_tri">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="instagram" title="instagram" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="instagram" title="instagram" width="28" height="28" />
 </a>
   <a href="https://linkedin.com/in/aritri acharyya">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="linkedin" title="linkedin" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="linkedin" title="linkedin" width="28" height="28" />
 </a>
   <a href="https://github.com/aritri-acharyya">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="github" title="github" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="github" title="github" width="28" height="28" />
 </a>
  <a href="https://www.hackerrank.com/aritriacharyya?hr_r=1">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3628823-3030100.png?f=avif&w=256" alt="hackerrank" title="hackerrank" width="25" height="25" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-hackerrank-3628823-3030100.png?f=avif&w=256" alt="hackerrank" title="hackerrank" width="28" height="28" />
 </a>
 </p>
 
