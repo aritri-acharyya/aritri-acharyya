@@ -10,9 +10,8 @@
 - 📫 How to reach me **aritri.acharyya.27@gmail.com**
 
 - 💬 Ask me about 
-<p>
-  
-</p>
+  <p>
+  </p>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   
 
