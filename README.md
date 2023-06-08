@@ -31,11 +31,13 @@
   <a href="https://instagram.com/ar_i_tri">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="instagram" title="instagram" width="25" height="25" />
 </a>
-<a href="https://github.com/aritri-acharyya"><i class="fab fa-github"></i></a>
-  
-<a href="https://linkedin.com/in/aritri acharyya"><i class="fab fa-linkedin-in"></i></a>
+  <a href="https://linkedin.com/in/aritri acharyya">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="linkedin" title="linkedin" width="25" height="25" />
+</a>
+  <a href="https://github.com/aritri-acharyya">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="github" title="github" width="25" height="25" />
+</a>
 
-<a href="https://instagram.com/ar_i_tri"><i class="fab fa-instagram"></i></a>
 </p>
 
 
