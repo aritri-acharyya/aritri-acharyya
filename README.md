@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/instagram.png" alt="instagram" title="instagram" width="25" height="25" />
 </a>
 <a href="https://github.com/aritri-acharyya"><i class="fab fa-github"></i></a>
   
