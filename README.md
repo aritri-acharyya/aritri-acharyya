@@ -27,9 +27,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aritri acharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aritri acharyya" height="30" width="40" /></a>
-<a href="https://instagram.com/ar_i_tri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ar_i_tri" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aritriacharyya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aritriacharyya" height="30" width="40" /></a>
+  
+<a href="https://github.com/aritri-acharyya"><i class="fab fa-github"></i></a>
+  
+<a href="https://linkedin.com/in/aritri acharyya"><i class="fab fa-linkedin-in"></i></a>
+
+<a href="https://instagram.com/ar_i_tri"><i class="fab fa-instagram"></i></a>
 </p>
 
 
