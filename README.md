@@ -37,7 +37,9 @@
   <a href="https://github.com/aritri-acharyya">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/github.png" alt="github" title="github" width="25" height="25" />
 </a>
-
+ <a href="https://www.hackerrank.com/aritriacharyya?hr_r=1">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/hackerrank.png" alt="hackerrank" title="hackerrank" width="25" height="25" />
+</a>
 </p>
 
 
